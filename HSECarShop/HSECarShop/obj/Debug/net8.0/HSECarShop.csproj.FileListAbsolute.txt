@@ -1,0 +1,14 @@
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\bin\Debug\net8.0\HSECarShop.exe
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\bin\Debug\net8.0\HSECarShop.deps.json
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\bin\Debug\net8.0\HSECarShop.runtimeconfig.json
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\bin\Debug\net8.0\HSECarShop.dll
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\bin\Debug\net8.0\HSECarShop.pdb
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\HSECarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\HSECarShop.AssemblyInfoInputs.cache
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\HSECarShop.AssemblyInfo.cs
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\HSECarShop.csproj.CoreCompileInputs.cache
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\HSECarShop.dll
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\refint\HSECarShop.dll
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\HSECarShop.pdb
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\HSECarShop.genruntimeconfig.cache
+C:\Users\Office\Visual Studio\Software_Design_seminars\HSECarShop\HSECarShop\obj\Debug\net8.0\ref\HSECarShop.dll
